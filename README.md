@@ -32,7 +32,7 @@ $ npm i
 ```sh
 $ node index.js
 
-after open your browser and digit in URL 
+after, open your browser and digit in URL 
 http://localhost:3000/
 ```
 
