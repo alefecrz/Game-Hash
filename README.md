@@ -1,6 +1,6 @@
 # Game HashTag
 
-![alt text](https://gitlab.com/alefecrz/hash-tag/blob/master/Profile.png)
+![Game HashTag](Profile.png)
 
 # About the APP
 
