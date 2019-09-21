@@ -1,5 +1,7 @@
 # Game HashTag
 
+![Game HashTag](Profile.png)
+
 # About the APP
 
 The idea this app is:
