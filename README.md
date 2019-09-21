@@ -1,5 +1,7 @@
 # Game HashTag
 
+![alt text](https://gitlab.com/alefecrz/hash-tag/blob/master/Profile.png)
+
 # About the APP
 
 The idea this app is:
