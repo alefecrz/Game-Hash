@@ -10,7 +10,7 @@ The idea this app is:
 
 # why?
 
-Learn a litle about Node.js, Express.js, Angularjs and CSS Pure(GRID)
+Project using Node.js, Express.js, Angularjs and CSS Pure(GRID)
 
 
 # Getting Started
